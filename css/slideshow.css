@@ -1,0 +1,22 @@
+/*
+.fa-arrow-left, .fa-arrow-right {
+    position: relative;
+    top: 25px;
+}
+.fa-arrow-right {
+    left: 932px;
+}
+*/
+
+ul {
+    display: inline;
+    position: relative;
+    top:100px;
+}
+
+li {
+    display: inline-block;
+    font-size: 1.3em;
+    float: left;
+    margin-right: .5em;
+}
